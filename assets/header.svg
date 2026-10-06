@@ -1,3 +1,4 @@
+<!-- VALLABHA BUILD: 2026-10-06 cache refresh -->
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="320" viewBox="0 0 960 320">
 <defs>
 <filter id="glow" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
