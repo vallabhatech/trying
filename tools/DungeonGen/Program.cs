@@ -1,4 +1,4 @@
-// G00dS0ul Profile Generator
+// Vallabha Profile Generator
 // Turns your GitHub activity into a cyberpunk/roguelike console for your profile README.
 //
 //   dotnet run -- <username> [--assets assets] [--html docs/index.html] [--readme README.md]
@@ -14,7 +14,7 @@
 //
 // Uses PROFILE_TOKEN (personal token) or GITHUB_TOKEN for the GitHub GraphQL API.
 
-var user = args.FirstOrDefault(a => !a.StartsWith("--")) ?? "G00dS0ul";
+var user = args.FirstOrDefault(a => !a.StartsWith("--")) ?? "vallabhatech";
 string Opt(string name, string fallback)
 {
     var i = Array.IndexOf(args, name);
