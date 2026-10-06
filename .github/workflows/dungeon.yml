@@ -2,7 +2,7 @@ name: Update profile
 
 on:
   schedule:
-    - cron: "17 6 * * *"   # every day at 06:17 UTC (07:17 Lagos)
+    - cron: "17 6 * * *"   # every day at 06:17 UTC (12:17 India)
   workflow_dispatch:        # adds a "Run workflow" button
   push:
     paths: ["tools/DungeonGen/**", ".github/workflows/dungeon.yml"]
