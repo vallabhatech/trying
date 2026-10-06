@@ -1,73 +1,79 @@
 {
-  "name": "Iseoluwa Olowogoke",
-  "handle": "G00dS0ul",
-  "class": "Game Engine Developer & Systems Architect",
-  "origin": "Computer Engineering Student · Nigeria",
-  "specialty": "C# & .NET Desktop Development",
-  "bio": "I engineer complex, data-driven systems from scratch, from enterprise-level MVVM architectures to custom object-oriented game engines.",
+  "name": "Harivallabha Sai Surishetty",
+  "handle": "vallabhatech",
+  "class": "AI Product Builder & Systems Engineer",
+  "origin": "Computer Science Student · India",
+  "specialty": "Full-Stack, AI/ML & Cloud/DevOps",
+  "bio": "I turn useful ideas into working software across web, mobile, AI, cloud, and developer systems — with a bias toward shipping.",
   "effects": [
     {
       "tag": "+",
-      "label": "LEARNING",
-      "text": "Advanced C# & Game Design Patterns"
+      "label": "BUILDING",
+      "text": "AI-powered products, developer tools & practical systems"
     },
     {
       "tag": "&",
       "label": "SEEKING PARTY",
-      "text": "Open source C# projects & beginner game jams"
+      "text": "Open source collaborators, hackathons & ambitious builders"
     },
     {
       "tag": "?",
       "label": "ASK ME ABOUT",
-      "text": "C# logic, state machines & console UI systems"
+      "text": "Full-stack apps, AI/ML, Android, GitHub & cloud systems"
     },
     {
       "tag": "!",
       "label": "FUN FACT",
-      "text": "I build complex financial software just to master logic systems"
+      "text": "I turn GitHub profiles, college systems and hackathon ideas into things people can actually use"
     }
   ],
   "gear": [
-    "C#",
-    "Python (fundamentals)",
-    ".NET 10",
-    "WPF",
-    "MonoGame",
-    "Unity",
-    "Visual Studio",
-    "Git"
+    "Python",
+    "TypeScript",
+    "JavaScript",
+    "Kotlin",
+    "React / Next.js",
+    "FastAPI / Node.js",
+    "Firebase",
+    "Docker",
+    "Kubernetes",
+    "AWS / Vercel",
+    "GitHub"
   ],
   "skills": [
-    "System Architecture",
-    "Strict OOP",
-    "State Machines",
-    "Decoupled Rendering",
-    "Algorithmic Logic"
+    "AI Product Development",
+    "Full-Stack Engineering",
+    "Backend & API Design",
+    "Cloud / DevOps",
+    "Android & Jetpack Compose",
+    "Automation",
+    "Open Source"
   ],
   "links": [
     {
       "key": "E",
       "label": "EMAIL",
-      "url": "mailto:olowogokeiseoluwa23@gmail.com"
+      "url": "mailto:vallabha1243@gmail.com"
     },
     {
       "key": "L",
       "label": "LINKEDIN",
-      "url": "https://www.linkedin.com/in/iseoluwa-olowogoke-g00ds0ul/"
+      "url": "https://www.linkedin.com/in/vallabha-tech/"
     },
     {
-      "key": "X",
-      "label": "X / TWITTER",
-      "url": "https://x.com/IsEverythinGoo"
+      "key": "W",
+      "label": "PORTFOLIO",
+      "url": "https://www.vallabha.xyz/"
     },
     {
-      "key": "D",
-      "label": "DUNGEON",
-      "url": "https://g00ds0ul.github.io/G00dS0ul/"
+      "key": "G",
+      "label": "GITHUB",
+      "url": "https://github.com/vallabhatech"
     }
   ],
   "roles": {
-    "metacall/core": "C# loader: classes & cs_loader fixes",
-    "GS-SystemAnalyzer/core": "core dev: .NET(C#) & Flutter(Dart)"
+    "GDG on Campus CVR": "Android Team Lead: mentoring, Kotlin/Compose & developer sessions",
+    "CSI CVRCE": "Technical / Executive: events, community systems & engineering",
+    "Open Source": "Building, reviewing, shipping & learning in public"
   }
 }
