@@ -1,6 +1,6 @@
 <p align="center">
   <img src="./assets/header.svg?v=8ee40ccb" width="100%" align="top">
-  <a href="https://g00ds0ul.github.io/G00dS0ul/"><img src="./assets/dungeon.svg?v=0fd687f6" width="100%" align="top"></a>
+  <a href="https://github.com/vallabhatech/trying"><img src="./assets/dungeon.svg?v=0fd687f6" width="100%" align="top"></a>
   <img src="./assets/inventory.svg?v=348fa33e" width="100%" align="top">
 <!-- QUESTS:START -->
 <a href="https://github.com/vallabhatech/V.E.R.I.T.A.S"><img src="./assets/quest-1.svg?v=b955e739" width="50%" align="top" alt="V.E.R.I.T.A.S"></a><a href="https://github.com/vallabhatech/CareSync"><img src="./assets/quest-2.svg?v=f38ee03a" width="50%" align="top" alt="CareSync"></a>
@@ -15,5 +15,5 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=G00dS0ul&label=Profile%20Views&color=00FF00&style=flat-square&base=000000" alt="G00dS0ul Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=vallabhatech&label=Profile%20Views&color=00FF00&style=flat-square&base=000000" alt="vallabhatech Profile Views" />
 </div>
