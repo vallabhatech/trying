@@ -18,7 +18,7 @@
 <rect x="24" y="14" width="184" height="44" rx="6" fill="#002a0b" stroke="#00FF00" stroke-width="2"/>
 <rect x="36" y="24" width="26" height="24" rx="3" fill="#000" stroke="#00FF00"/>
 <rect x="36" y="44" width="26" height="4" fill="#00FF00" fill-opacity=".5"/>
-<text class="sm" x="49" y="41" fill="#00FF00" text-anchor="middle" filter="url(#glow)">X</text>
-<text class="sm" x="74" y="41" fill="#eaffea" filter="url(#glow)">X / TWITTER</text>
+<text class="sm" x="49" y="41" fill="#00FF00" text-anchor="middle" filter="url(#glow)">W</text>
+<text class="sm" x="74" y="41" fill="#eaffea" filter="url(#glow)">PORTFOLIO</text>
 <rect width="240" height="80" fill="url(#scan)" pointer-events="none"/>
 </svg>
