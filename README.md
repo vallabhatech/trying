@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg?v=8ee40ccb" width="100%" align="top">
+  <img src="./assets/header.svg?v=20261006-1" width="100%" align="top">
   <a href="https://github.com/vallabhatech/trying"><img src="./assets/dungeon.svg?v=0fd687f6" width="100%" align="top"></a>
   <img src="./assets/inventory.svg?v=348fa33e" width="100%" align="top">
 <!-- QUESTS:START -->
