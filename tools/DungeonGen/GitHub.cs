@@ -49,7 +49,7 @@ static class GitHub
     public static async Task<Profile> FetchAsync(string login, string token)
     {
         using var http = new HttpClient();
-        http.DefaultRequestHeaders.UserAgent.ParseAdd("G00dS0ul-ProfileGen");
+        http.DefaultRequestHeaders.UserAgent.ParseAdd("Vallabha-ProfileGen");
         http.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("bearer", token);
         var json = await PostGraphQLAsync(http, Query, new { login });
         // GraphQL can return partial data: e.g. an organisation that blocks your token hides just
